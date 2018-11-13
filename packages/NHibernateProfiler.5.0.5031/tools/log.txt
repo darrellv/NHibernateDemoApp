@@ -1,0 +1,2 @@
+2018-11-12 13:24:12,426 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 5031
+2018-11-12 13:24:15,744 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - Could not find license file: C:\Users\Darrell.Vinson\AppData\Local\NHibernate Profiler\license.xml
